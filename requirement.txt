@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+torch
+spacy
+keybert
+sentence-transformers
+scikit-learn
+pydantic
